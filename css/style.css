@@ -41,7 +41,7 @@
     flex: 1 1 80%;
     min-height:100vh;
     background-color:var(--about-bg-color);
-    padding:50px;
+    padding:50px
 }
 
 #bio-container img{
@@ -126,8 +126,10 @@ padding-bottom: 25px;
 }
 
 .description{
-    max-width: 75%;
+    max-width: 45%;
     margin-bottom: 10px;
+    text-align: left;
+    
 }
 
 #btn-projetos{
@@ -170,6 +172,7 @@ padding-bottom: 25px;
     display: flex;
     flex-wrap: wrap;
     margin-top: 25px;
+    
 }
 
 .skills-box{
